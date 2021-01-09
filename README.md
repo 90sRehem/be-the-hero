@@ -25,7 +25,7 @@
   <a href="https://github.com/90sRehem" target="_blank" >
     <img alt="Github - Jonathan Rehem" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/90sRehem/" target="_blank" >
+  <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="_blank" >
     <img alt="LinkedIn - Jonathan Rehem" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
   <a href="mailto:jonathan.de.oliveira@live.com" target="_blank" >
